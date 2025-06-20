@@ -1,3 +1,3 @@
-#NETFLIX CLONE
+# NETFLIX CLONE
 
-A Netflix clone built with React, Tailwind CSS, Redux, and TMDB APIs.
+An Netflix clone built with React, Tailwind CSS, Redux, and YouTube APIs.
